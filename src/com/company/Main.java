@@ -24,7 +24,7 @@ public class Main {
         result = liveInStep * STEPS_IN_SPAN * SPANS_IN_FLOOR * floor;
 
         System.out.println("Ваша жизнь увеличилась на: " + result + " сек");
-        //fuck off
+        //juck
 
 
     }
